@@ -2,6 +2,11 @@
 
 ## Without using token, just searching
 
-In the project directory, you can run:
+To using make the follow bellow
+###git clone <Repo Url>
+### cd <Project Folder>
+###npm i
+
+Then in the project directory, you can run:
 
 ### `npm start`
